@@ -7176,7 +7176,7 @@ external_Vue_default.a.use(plugins_Tips);
       return Object.assign({
         autoLoad: true,
         showUserAgent: true,
-        gravatarSource: "//cdn.v2ex.com/gravatar",
+        gravatarSource: "//sdn.geekzu.org/avatar/",
         loadingStyle: "default"
       }, this.configs);
     },
