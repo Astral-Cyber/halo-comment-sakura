@@ -7139,7 +7139,7 @@ external_Vue_default.a.use(plugins_Tips);
         // auto load comment,default true
         autoLoad: true,
         showUserAgent: true,
-        gravatarSource: "//cdn.v2ex.com/gravatar",
+        gravatarSource: "//gravatar.com/avatar/",
         loadingStyle: "default"
       })
     }
